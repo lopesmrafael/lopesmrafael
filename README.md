@@ -18,8 +18,9 @@ Focused on **software architecture, performance, clean code**, and building expe
     <img src="https://img.shields.io/badge/Instagram-@LOPESMRAFAEL-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rafael-lopes-748b60314" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Lopes-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white" />
+</a>
+
 </p>
 
 ---

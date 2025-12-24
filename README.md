@@ -69,12 +69,17 @@ Focused on **software architecture, performance, clean code**, and building expe
 
 ---
 
+
+
+## 📊 GitHub Stats
+
 <p align="left">
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=lopesmrafael&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
+       src="https://github-readme-stats-eight-theta.vercel.app/api?username=lopesmrafael&show_icons=true&theme=tokyonight" />
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesmrafael&layout=compact&theme=tokyonight&cache_seconds=1800" />
+       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lopesmrafael&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 ---

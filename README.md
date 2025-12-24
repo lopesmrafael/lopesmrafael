@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rafael Lopes
 
 🚀 **Junior Software Engineer | JavaScript & React**  
-🇧🇷 Brazil
+BR Brazil
 
 I build **scalable products** and **high-performance web systems**. 
 Focused on **software architecture, performance, clean code**, and building experiences that accelerate my professional growth.

@@ -18,8 +18,10 @@ Focused on **software architecture, performance, clean code**, and building expe
     <img src="https://img.shields.io/badge/Instagram-@LOPESMRAFAEL-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rafael-lopes-748b60314" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="28" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="20" />
+  LinkedIn
 </a>
+
 
 </p>
 

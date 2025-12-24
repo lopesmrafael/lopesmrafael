@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rafael Lopes
 
 🚀 **Junior Software Engineer | JavaScript & React**  
-🇧🇷 Brazil
+![Brazil](https://img.shields.io/badge/Brazil-🇧🇷-009C3B?style=for-the-badge) Brazil
 
 I build **scalable products** and **high-performance web systems**. 
 Focused on **software architecture, performance, clean code**, and building experiences that accelerate my professional growth.
